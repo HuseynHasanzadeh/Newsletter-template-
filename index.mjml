@@ -1,0 +1,94 @@
+<mjml>
+  <mj-head>
+    <mj-title>7 Heaven Casino Free Bonus for Registration</mj-title>
+    <mj-preview>7 Heaven Casino Free Bonus for Registration</mj-preview>
+  </mj-head>
+
+  <mj-body width='600px'  >
+  <!-- logo -->
+    <mj-section background-color="#000000"  padding="0 0 0 0">
+      <mj-column>
+        <mj-image align='center' src='images/Logo.png' padding-top='50px' padding-bottom='50px' width='65px'></mj-image>
+      </mj-column>
+    </mj-section>
+<!-- logo -->
+
+<!-- background -->
+<mj-section  padding="0 0 0 0">
+<mj-column>
+<mj-image padding="0 0 0 0" border="none" src='https://images.unsplash.com/photo-1522069213448-443a614da9b6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80'></mj-image>
+</mj-column>
+</mj-section>
+<!-- background -->
+<mj-section  padding="0 0 0 0" background-color="#000000" >
+<mj-column>
+<mj-text color='#ffffff' align='center' font-size='32px' font-weight= '700'  font-family='Arial' line-height=45px   >
+<p style="font-size:32px; font-weight: 700; text-align: center; font-family: 'Arial'; line-height:45px;   " >25 € </p>
+</mj-text>
+
+<mj-text color='#ffffff'  >
+<p style="margin-top:30px; font-weight: 700; text-align: center; font-family: 'Arial'; line-height:28px; font-size:20px">Free Bonus for Registration</p>
+</mj-text>
+<mj-text color='#ffffff'>
+<p style="margin-top:30px; font-weight: 400;  font-family: 'Arial'; line-height:20px; font-size:14px; ">
+It is licensed by the Malta Gaming Authority, which guarantees a good and honest pastime. These documents report that players can get the best experience from various games. These include slot machines, cards, table games, and a live casino, allowing you to have fun and profitably spend time online. Browse all of the gaming solutions available ... <a href='#' target='_blank' style="text-decoration:none; color:#ffffff;"><b>Click here to learn more</b></a>
+</p>
+</mj-text>
+
+<mj-button href='#' padding-bottom=100px padding-top=100px background-color="#ffffff" border-radius="25px" text-align='center' text-transform='uppercase'  font-family="Arial" font-size="20px" font-weight="700" inner-padding="14px 25px"  padding="10px 25px"><span style="color:#000000">Sign up and get bonus</span></mj-button>
+</mj-column>
+</mj-section>
+
+<mj-section padding="0 0 30px 0" background-color="#000000"  >
+<mj-group width="40%">
+<mj-column>
+            <mj-image src="images/fb.png" href="#" width="30px"/>
+          </mj-column>
+          <mj-column>
+            <mj-image src="images/tg.png" href="#" width="30px"/>
+          </mj-column>
+          <mj-column>
+            <mj-image src="images/insta.png" href="#" width="30px"/>
+          </mj-column>
+</mj-group>
+</mj-section>
+
+<!-- info unsubscribe -->
+<mj-section  padding='0 0 0 0 ' background-color='#000000'>
+<mj-column >
+<mj-text padding-bottom='30px' color='#ffffff' align='center' font-family='Arial' font-size='12px' line-height="18px" font-weight="400">
+
+You agreed receiving Notification emails. </br>
+No longer interested? 
+<a href='#' target='_blank' style= "color:#ffffff; text-decoration:none;"><b>Unsubscribe or manage your subscriptions.</b></a>
+
+</mj-text>
+
+</mj-column>
+</mj-section>
+<!-- info unsubscribe -->
+
+<!-- info chat -->
+<mj-section  padding='0 0 0 0 ' background-color='#000000'>
+<mj-column >
+<mj-text padding-bottom='30px' color='#ffffff' align='center' font-family='Arial' font-size='12px' line-height="18px" font-weight="400">
+
+Have questions? </br>
+ 
+<a href='#' target='_blank' style="color:#ffffff; text-decoration:none;"><b padding-top='10px' padding-bottom='50px'>Contact Online-Chat</b>
+</a>
+</mj-text>
+
+</mj-column>
+</mj-section>
+
+<!-- info chat -->
+
+
+
+
+
+
+
+  </mj-body>
+</mjml>
